@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TRADEMART
 
  
@@ -130,3 +131,6 @@ https://trademar4.netlify.app/
 
 
 
+=======
+# Indiamart-clone
+>>>>>>> 9ef12b7431ed19152b40a0a85dd8b75b88ed32f9
