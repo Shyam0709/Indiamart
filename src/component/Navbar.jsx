@@ -185,7 +185,7 @@ let tocken = getItem("userData");
                         <UserLogin handleLogout={handleLogout} admin={admin} handlechenge ={handlechenge} Registarion ={Registarion} handleLogin ={handleLogin}setRegistarion ={setRegistarion}setConform ={setConform}cred ={cred}conform ={conform}handleClick ={handleClick}/>
 
                       <Text fontSize={{ base: "11px", md: "12px" }}>
-                        New to TRADEMART{" "}
+                        New to IndiaMart{" "}
                         <span style={{ color: "blue" }}>Join Now</span>
                       </Text>
                     </Box>
@@ -278,7 +278,7 @@ let tocken = getItem("userData");
                           fontSize={{ base: "12px", md: "14px" }}
                           fontWeight="500"
                         >
-                          Pay with TRADEMART
+                          Pay with IndiaMart
                         </Text>
                         <Text
                           fontSize={{ base: "12px", md: "14px" }}
@@ -293,7 +293,7 @@ let tocken = getItem("userData");
                           fontSize={{ base: "12px", md: "14px" }}
                           fontWeight="500"
                         >
-                          Ship with TRADEMART
+                          Ship with IndiaMart
                         </Text>
                         <Text
                           fontSize={{ base: "12px", md: "14px" }}

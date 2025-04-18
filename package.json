@@ -14,6 +14,7 @@
     "axios": "^1.2.2",
     "firebase": "^9.16.0",
     "framer-motion": "^8.5.0",
+    "indiamart": "file:",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-firebase-hooks": "^5.1.1",
